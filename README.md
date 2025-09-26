@@ -223,7 +223,7 @@
             </div>
             <button id="loginBtn">Login</button>
             <div class="input-group" style="text-align: center; margin-top: 15px;">
-                <p>Sabhi prakat ke notes yaha milenge<br> 💞radhe radhe💞</p>
+                <p>Sabhi prakar ke notes yaha milenge<br> 💞radhe radhe💞</p>
             </div>
         </div>
 
@@ -239,22 +239,22 @@
             
             <div class="last-login">
                 <h3>Radhe Radhe</h3>
-               <p>bhen sachin ne mujhse bola hai ki sorry bol diyo isley sorry bol raha hu apke paper hai mujhe pata hai or ap irritate ho me apki har tarike se help karunga par ap help nahi mangogi fir bhi ek bhai samajh kar mang sakti ho or ap padhai par focus karo iŕitate mat ho</p>
+               <p>sorry bhen bo mere pet me dard ho gaya tha achanak se isley me msg update nahi kar paya tha ab kara hai apko jab moka mila kare wp par akar prutha ke number par jo mene phele link bheji thi us par clicknkarma or pass or user name hamesha hi same rahega </p>
                 
             </div>
             
             <div class="user-info">
                 <h3>bhen dekhti raha karna har 2 hour baad</h3>
-<p>bhen password hai 123321 ise kahi copy me likh lena or user name hai Tamanna or ap ise chek karti raha karna yeh koi nahi khol payega bina password ke isley secure hai or me is par bhot ache msg dala karunga bs ap read karna or prutha se apni dosti achi rakho bo apki sach me bhot achi freind hai ap iske reply me bs 'yes'likh diya karna jab bhi dekho or whatsapp par</p>
+<p>ab to nahi hoti na ladai apki us dushman jiya se ap apne dosto ke sath baitha karo thoda badal jao bhen apne prutha ko gali di thi ase gali mat de karo bhen pls apni bhen samajhkar samjha rha hu or sachin ki achi freiend samajhkar ase gali mat diya karo or ap prutha se block ki bol deti ho asa mat kara karo kal garva enjoy karna</p>
             </div>
             
             <div class="content-area">
                 <h3>Your Personal Notes</h3>
-                <p>kal se sachin ki helath sahi hai ap garba khel rahi ho kya usne bola ki bhai bol diyo ki me sahi ho jaunga or navratri enjoy karen or vo apki avaj sunna chata hai or apko dekhna chata hai bhen pls mana mat karna apni ek pick prutha ko bhej do:</p><hr>
+                <p>ap ye batao ki ab apki health kharab to nahi hai jo ap is tarike se irritate ho rahi ho apna khayal rakha karo or thoda apne ap ko aram se badlo insta to apne delete kar diya to is par hi padh liya karna .or apko jo batane layak lage uska reply prutha bhen ko de diya karna</p><hr>
                
                 <br>
                 <br>
-                <h3>Thanks msg padhne ke liye or logout kar dena baad me uper se fir login karne ke liye username or password dalna user name Tamanna password=123321.</h3>
+                <h3>Thanks msg padhne ke liye or logout kar dena baad me password hamesha same rahega jab tk me nahi badlunga bhen ap thodi se change ho jao or apki freind prutha bhot achi hai ap uske sath baitha karo bhen or padhai par main focus or har 3 hour baad ya 2 hour baad jab bhi ap yes likh dogi or prutha mujhe bata degi me msg change kar diya karunga</h3>
                
               
                 <button class="save-btn" id="saveNotesBtn">Save Notes</button>
