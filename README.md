@@ -254,7 +254,7 @@
                
                 <br>
                 <br>
-                <h3>Thanks msg padhne ke liye or logout kar dena baad me uper se fir login karne ke liye username or password dalna user name Tamanna password=123321</h3>
+                <h3>Thanks msg padhne ke liye or logout kar dena baad me uper se fir login karne ke liye username or password dalna user name Tamanna password=123321.</h3>
                
               
                 <button class="save-btn" id="saveNotesBtn">Save Notes</button>
