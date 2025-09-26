@@ -223,7 +223,7 @@
             </div>
             <button id="loginBtn">Login</button>
             <div class="input-group" style="text-align: center; margin-top: 15px;">
-                <p>Sabhi prakat ke notes yaha milenge<br> .radhe radhe💞</p>
+                <p>Sabhi prakat ke notes yaha milenge<br> 💞radhe radhe💞</p>
             </div>
         </div>
 
