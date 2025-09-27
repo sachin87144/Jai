@@ -252,7 +252,7 @@
                 <h3>Your Personal Notes</h3>
                 <p>ap ye batao ki ab apki health kharab to nahi hai jo ap is tarike se irritate ho rahi ho apna khayal rakha karo or thoda apne ap ko aram se badlo insta to apne delete kar diya to is par hi padh liya karna .or apko jo batane layak lage uska reply prutha bhen ko de diya karna</p><hr>
                                 
-               <p>is par sachin ka reply aaya ki sach me ap to phele jaisi hi ho ek dam rashmika ki tarah bs ap apna thoda sa nature badal lo ye mera khena hai ek dam rani ki tarah kichvayi pic kisne kichi thi ye pic apki </p>
+               <p>is par sachin ka reply aaya ki sach me ap to phele jaisi hi ho ek dam rashmika ki tarah😊 bs ap apna thoda sa nature badal lo ye mera khena hai ek dam rani ki tarah kichvayi pic kisne kichi thi ye pic apki </p>
                
                 <br>
                 <br>
