@@ -239,20 +239,20 @@
             
             <div class="last-login">
                 <h3>Radhe Radhe</h3>
-               <p>garva enjoy kara hoga aj to school me hamare idhar to kuch nahi hota asa apke to maje hi maje hai or socity me roj khelti ho kya garva or ab to irritate nahi ho na jab bhi hoya karo bata diya karo me ya sachin ko to ab pareshan karne hi nahi dunga.</p>
+               <p>Bhen mene ye kab bola ki apne prutha ko dhamkaya mene ye bola tha ki ap block ke liye bolti ho asa mat bola karo or vo gali bala isley bola tha kyuonki prutha ko gali pasand nahi hai or kisi ko bhi nahi hoti apne ese hi wp par chat me likh di thi use dekhkar bola tha prutha ne screenshot bheja tha yes ka jab mene dekha to bol diya tha bhen sorry</p>
                 
             </div>
             
             <div class="user-info">
                 <h3>bhen dekhti raha karna har 2 hour baad jab bhi dekh liya jaro yes likh diya karna prutha ke wp par. </h3>
-<p>ap bhi na choti chotu bato par badak jati ho asa mat kara karo is life me to asa hota rehta hai ap serious mat hoya karo or sachin se to pata nahi kyu naraj ho jati ho ab mat hona bhen pls😊 agar nahi hougi to yes ke age 2 or likh dena yes2 pls bhen or apna khyal rakha karo asa sachin bhi bolta hai or me bhi</p>
+<p>bhadakna mat ye mene isley bola tha kyuonki bo mujhse abhi bhi baat karti hai bo me hi bolta hu jabardasti isley kyuonki prutha ke jariye me sachin ko apke baren me kuch na kuch batata rehta hu bhen jaise apki pic dikhana agera bagera😊isley ap bol deti ho na block kar de kar asa mat bola karo or dhire dhire apne bheaviour ko sudharo or mujhe lagta hai ki sudhar bhi rahi hougi agar sudhar rahi ho to yes 2 😇 hi likhna bhen</p>
             </div>
             
             <div class="content-area">
                 <h3>Your Personal Notes</h3>
-                <p>prutha apki sach me bhot achi freind hai use apni hanesha close freind bana kar rakhna or ap use bhi attitude dikhati ho asa mat kara karo ab ap mere ye msg karke prutha par bhadak mat jana bhen or koi bhi help chaiye ho to bata dena or insta kyu delete kara apne baise.</p><hr>
+                <p>prutha apki sach me bhot achi freind hai use apni hanesha close freind bana kar rakhna or bhen ye tarika kaisa laga apko msgging ka aphi is par ap reply de sako asa bhi try kar raha hu par uske liye yaha par ye 500 ruppes mang rahe hai or mene khud permmision ke liye phele hi 800 de chuka hu ab ap kuch mat khena apni freind se apko mere sare msg samajh aaye ho to yes2 or yes 3 likhna bhen🫡</p><hr>
                                 
-               <p>apki pic par sachin ka reply aaya ki sach me ap to phele jaisi hi ho ek dam rashmika ki tarah😊 bs ap apna thoda sa nature badal lo ye mera khena hai ek dam rani ki tarah kichvayi pic kisne kichi thi ye pic apki </p>
+               <p>apne bataya nahi ki ab apki ladai to nahi hoti na kisi se school me saab sahi chal raha hai na apna dhyaan rakha karo bhen idhar hm iska rakhi rahe hai apne to bol diya tha ki mere khene na khene se kuch hoyega kya par koi na us bakt ap irritate thi ab mat hona or ap irritate hoya karo to bta diya karo fir me ise apko pareshan nahi karne dunga</p>
                
                 <br>
                 <br>
