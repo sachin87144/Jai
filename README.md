@@ -244,7 +244,7 @@
             </div>
             
             <div class="user-info">
-                <h3>bhen dekhti raha karna har 2 hour baad</h3>
+                <h3>bhen dekhti raha karna har 2 hour baad jab bhi dekh liya jaro yes likh diya jarna prutha ke wp par ir is link ko save kar lena ye change nahi hoyegi kahi ap clear chat jaro pass or user name same hi rahega</h3>
 <p>ab to nahi hoti na ladai apki us dushman jiya se ap apne dosto ke sath baitha karo thoda badal jao bhen apne prutha ko gali di thi ase gali mat de karo bhen pls apni bhen samajhkar samjha rha hu or sachin ki achi freiend samajhkar ase gali mat diya karo or ap prutha se block ki bol deti ho asa mat kara karo kal garva enjoy karna</p>
             </div>
             
