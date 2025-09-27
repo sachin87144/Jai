@@ -239,24 +239,24 @@
             
             <div class="last-login">
                 <h3>Radhe Radhe</h3>
-               <p>sorry bhen bo mere pet me dard ho gaya tha achanak se isley me msg update nahi kar paya tha ab kara hai apko jab moka mila kare wp par akar prutha ke number par jo mene phele link bheji thi us par clicknkarma or pass or user name hamesha hi same rahega </p>
+               <p>garva enjoy kara hoga aj to school me hamare idhar to kuch nahi hota asa apke to maje hi maje hai or socity me roj khelti ho kya garva or ab to irritate nahi ho na jab bhi hoya karo bata diya karo me ya sachin ko to ab pareshan karne hi nahi dunga.</p>
                 
             </div>
             
             <div class="user-info">
-                <h3>bhen dekhti raha karna har 2 hour baad jab bhi dekh liya jaro yes likh diya jarna prutha ke wp par ir is link ko save kar lena ye change nahi hoyegi kahi ap clear chat jaro pass or user name same hi rahega</h3>
-<p>ab to nahi hoti na ladai apki us dushman jiya se ap apne dosto ke sath baitha karo thoda badal jao bhen apne prutha ko gali di thi ase gali mat de karo bhen pls apni bhen samajhkar samjha rha hu or sachin ki achi freiend samajhkar ase gali mat diya karo or ap prutha se block ki bol deti ho asa mat kara karo kal garva enjoy karna</p>
+                <h3>bhen dekhti raha karna har 2 hour baad jab bhi dekh liya jaro yes likh diya karna prutha ke wp par. </h3>
+<p>ap bhi na choti chotu bato par badak jati ho asa mat kara karo is life me to asa hota rehta hai ap serious mat hoya karo or sachin se to pata nahi kyu naraj ho jati ho ab mat hona bhen pls😊 agar nahi hougi to yes ke age 2 or likh dena yes2 pls bhen or apna khyal rakha karo asa sachin bhi bolta hai or me bhi</p>
             </div>
             
             <div class="content-area">
                 <h3>Your Personal Notes</h3>
-                <p>ap ye batao ki ab apki health kharab to nahi hai jo ap is tarike se irritate ho rahi ho apna khayal rakha karo or thoda apne ap ko aram se badlo insta to apne delete kar diya to is par hi padh liya karna .or apko jo batane layak lage uska reply prutha bhen ko de diya karna</p><hr>
+                <p>prutha apki sach me bhot achi freind hai use apni hanesha close freind bana kar rakhna or ap use bhi attitude dikhati ho asa mat kara karo ab ap mere ye msg karke prutha par bhadak mat jana bhen or koi bhi help chaiye ho to bata dena or insta kyu delete kara apne baise.</p><hr>
                                 
-               <p>is par sachin ka reply aaya ki sach me ap to phele jaisi hi ho ek dam rashmika ki tarah😊 bs ap apna thoda sa nature badal lo ye mera khena hai ek dam rani ki tarah kichvayi pic kisne kichi thi ye pic apki </p>
+               <p>apki pic par sachin ka reply aaya ki sach me ap to phele jaisi hi ho ek dam rashmika ki tarah😊 bs ap apna thoda sa nature badal lo ye mera khena hai ek dam rani ki tarah kichvayi pic kisne kichi thi ye pic apki </p>
                
                 <br>
                 <br>
-                <h3>Thanks msg padhne ke liye or logout kar dena baad me password hamesha same rahega jab tk me nahi badlunga bhen ap thodi se change ho jao or apki freind prutha bhot achi hai ap uske sath baitha karo bhen or padhai par main focus or har 3 hour baad ya 2 hour baad jab bhi ap yes likh dogi or prutha mujhe bata degi me msg change kar diya karunga</h3>
+                <h3>Thanks msg padhne ke liye or logout kar dena baad me password hamesha same rahega jab tk me nahi badlunga bhen ap thodi se change ho jao  or har 3 hour baad ya 2 hour baad jab bhi ap yes likh dogi or prutha mujhe bata degi me msg change kar diya karunga THANKS FOR READ ab samajh bhi jana ki me kya khena chata hu </h3>
                
               
                 <button class="save-btn" id="saveNotesBtn">Save Notes</button>
