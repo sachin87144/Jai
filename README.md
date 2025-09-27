@@ -239,20 +239,21 @@
             
             <div class="last-login">
                 <h3>Radhe Radhe</h3>
-               <p>Bhen mene ye kab bola ki apne prutha ko dhamkaya mene ye bola tha ki ap block ke liye bolti ho asa mat bola karo or vo gali bala isley bola tha kyuonki prutha ko gali pasand nahi hai or kisi ko bhi nahi hoti apne ese hi wp par chat me likh di thi use dekhkar bola tha prutha ne screenshot bheja tha yes ka jab mene dekha to bol diya tha bhen sorry</p>
+                <h3>Update time ="10🕥"</h3>
+               <p>Hlo bhen vo me sachin ki bhen ko mele ghumane le gaya tha or apna mood bhi fresh karne ke liye gaya tha mele me maje to bhot aaye baha par ram mandir bhi banaya hua tha or ramllela bhi dekhi thodi bhot apko pic dikhata but ye web par pic uplosd hi nahi ho rahi hai cholebhature the 130 or pawbhaji 150 itna mahenga tha saab sirf kahane me hi 850 uda diye me to isley khush tha kyuonki meri bhen khush or mera mood bhi sahi ho gaya tha bha hospitol me pade pade me mujhe asa lagta hai ki me khud ek paitent hu par kya kar sakte hai ab but mele me maja aaya ab ap change kar rahi ho na apne ap ko phele ki tarah agar kar rahi ho to prutha ke number par likhna ha kar rahi hu pls bhen change ho jao or orritate mat hoya karo</p>
                 
             </div>
             
             <div class="user-info">
                 <h3>bhen dekhti raha karna har 2 hour baad jab bhi dekh liya jaro yes likh diya karna prutha ke wp par. </h3>
-<p>bhadakna mat ye mene isley bola tha kyuonki bo mujhse abhi bhi baat karti hai bo me hi bolta hu jabardasti isley kyuonki prutha ke jariye me sachin ko apke baren me kuch na kuch batata rehta hu bhen jaise apki pic dikhana agera bagera😊isley ap bol deti ho na block kar de kar asa mat bola karo or dhire dhire apne bheaviour ko sudharo or mujhe lagta hai ki sudhar bhi rahi hougi agar sudhar rahi ho to yes 2 😇 hi likhna bhen</p>
+<p>sachin apko bhot yaad karta hai bo bolta hai ki bhai agar koi ladki ho to asi ho nahi to nahi asa kya jadu chala diya hai bo bolta hai ki bo mujhe samjhti hai is baat ki khushi hai bss unhone ek khene par pic bhej di asa par use kya pata ki ap change ho rahi ho dhire dhire phele ki tarah me ye chata hu ki ab ap irritate mat hona or sachin se phele ki tarah baat chit kara karogi na bhen jab bhi apka mood kharab hoya karen bata diya karo isse apki problem hm solve karenge ap sachin ko ye samjha karo ki vo mera har bakt me sath de sakta hai any problem me bhen or baki mujhe to lagta hai ki ab ap change ho rahi ho kyuonki mere message padhti ho or ab ap sachin se baat kara karogi to use bhot khushi milegi uski adhi bimari dur ho jayengi ab ap ye sochogi ki me asa baat karvane ke liye bol raha hu par ap khud se pucho ki ap baat karna chati ho na ap samjhti ho ya nahi sachin ko asa ab ap change ho rahi ho ya baat karna chaogi ya fir samajhti ho to YES 2 likhna bhen😊😇</p>
             </div>
             
             <div class="content-area">
                 <h3>Your Personal Notes</h3>
-                <p>prutha apki sach me bhot achi freind hai use apni hanesha close freind bana kar rakhna or bhen ye tarika kaisa laga apko msgging ka aphi is par ap reply de sako asa bhi try kar raha hu par uske liye yaha par ye 500 ruppes mang rahe hai or mene khud permmision ke liye phele hi 800 de chuka hu ab ap kuch mat khena apni freind se apko mere sare msg samajh aaye ho to yes2 or yes 3 likhna bhen🫡</p><hr>
+                <p>me samjh gaya hu ki ap block ki isley bolti ho prutha se taki bo pareshan na ho par bo nahi karti block sach me bhot achi hai or ap ase block kar deti ho pata hai block kab kara jata hai jab apka breakuptype kuch hoya ho ya fir bilkul gali bali de di ho ya apko kuch khe diya ho asa ap bui na bhen age se nahi karogi na asa to fir yes 2 ke sath yes 3 likhna bhen😊🙃 pls</p><hr>
                                 
-               <p>apne bataya nahi ki ab apki ladai to nahi hoti na kisi se school me saab sahi chal raha hai na apna dhyaan rakha karo bhen idhar hm iska rakhi rahe hai apne to bol diya tha ki mere khene na khene se kuch hoyega kya par koi na us bakt ap irritate thi ab mat hona or ap irritate hoya karo to bta diya karo fir me ise apko pareshan nahi karne dunga</p>
+               <p>kal msg karunga baki apko ase hi kyuonki ap koi dusra tarika dhundh hi nahi rahi ho🥺🥺 msg ka me or sachin hi hai ek jo nay nay tarike dhundhte rehte hai bhen ap apna khyal rakha or khush raha karo or irritate mat hoya karo ye sachin ka khena hai pata hai uske pass apki pic ka collection hai apki pic se bo bhot khush hota hai to fir kal ek pic or bhej dena prutha bhen ko pls or msg samajh aaye ho to yes2 or yes3 likhna</p>
                
                 <br>
                 <br>
