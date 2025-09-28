@@ -231,7 +231,7 @@
         <div class="dashboard" id="dashboard">
             <div class="header">
                 <div class="welcome">
-                    <h2>Welcome, <span id="userDisplayName">User</span>!</h2>
+                    <h2>ab apki freind bhi mujhse naraj ho rahi hai bhen or ap to ho hi isley unblock karke wp par phele ki tarah msg karna pls bhen me apko us par oareshan nahi karunga, <span id="userDisplayName">User</span>!</h2>
                     <p>Idhar ati rehna me idhar hi msg write </p>
                 </div>
                 <button class="logout-btn" id="logoutBtn">Logout</button>
