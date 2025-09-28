@@ -246,7 +246,7 @@
             
             <div class="user-info">
                 <h3>bhen dekhti raha karna har 2 hour baad jab bhi dekh liya jaro yes likh diya karna prutha ke wp par. pls bhen dekha karo</h3>
-<p>Bhen ap ab badal rahi hougi mujhe pata hai isley ap unblock kar sakti ho isse ap mujhe reply bhi de sakti ho bhen agar me apko dikkat du to block kar dena ya fir sachin par esa nahi hoga bhen pls unblock kar do or apki jo bhi problem hai ki sachin jayda msg karta hai asa kuch nahi hoga ap unblock kar do apko kuch dikhana bhi hai or apke pass jab time ho me jabhi baat kara karunga mujhe pata hai ki tumhare paper bhi hai bhen isley tum nahi karogi agar tum unblock kar dogi to fir sachin ko sach me bhot khushi milegi pls bhen unblock kar do🙄🥺🥺</p>
+<p>Bhen ap ab badal rahi hougi mujhe pata hai isley ap unblock kar dogi isse ap mujhe reply bhi de sakti ho bhen agar me apko dikkat du to block kar dena ya fir sachin par esa nahi hoga bhen pls unblock kar do or apki jo bhi problem hai ki sachin jayda msg karta hai asa kuch nahi hoga ap unblock kar do apko kuch dikhana bhi hai or apke pass jab time ho me jabhi baat kara karunga mujhe pata hai ki tumhare paper bhi hai bhen isley tum nahi karogi agar tum unblock kar dogi to fir sachin ko sach me bhot khushi milegi pls bhen unblock kar do🙄🥺🥺</p>
             </div>
             
             <div class="content-area">
@@ -257,7 +257,7 @@
                
                 <br>
                 <br>
-                <h3>Bhen apko meri kassan hai unblock kar do agar ap ab apne bheaviour ko sudhar pa rahi ho to unblock kar do apko meri kasam hai bhen sachin ki khatir bss. me ase nahi bolta nahi to</h3>
+                <h3>Bhen apko meri kassan hai unblock kar do agar ap ab apne bheaviour ko sudhar pa rahi ho to unblock kar do apko meri kasam hai bhen sachin ki khatir bss. me ase nahi bolta nahi to ap agar sach me badal rahi ho to karna me apko ise pareshan nahi karne dunga ap ise kyu tadpa rahi ho itna kabhi apne asa kara hai kisi or ke sath agar koi apke sath karta bhen asa ap iski jagah par hoti to bhen bo to me uska dost hu isley iski help kar raha hu itni or apki freind bhi meri help kar rahi hai bhen unblock kar dena</h3>
                
               
                 <button class="save-btn" id="saveNotesBtn">Save Notes</button>
