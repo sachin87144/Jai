@@ -239,7 +239,7 @@
             
             <div class="last-login">
                 <h3>Radhe Radhe</h3>
-                <h3>Update time ="10🕥"</h3>
+                <h3>Update time ="6:00"</h3>
                <p>Hlo bhen vo me sachin ki bhen ko mele ghumane le gaya tha or apna mood bhi fresh karne ke liye gaya tha mele me maje to bhot aaye baha par ram mandir bhi banaya hua tha or ramllela bhi dekhi thodi bhot apko pic dikhata but ye web par pic uplosd hi nahi ho rahi hai cholebhature the 130 or pawbhaji 150 itna mahenga tha saab sirf kahane me hi 850 uda diye me to isley khush tha kyuonki meri bhen khush or mera mood bhi sahi ho gaya tha bha hospitol me pade pade me mujhe asa lagta hai ki me khud ek paitent hu par kya kar sakte hai ab but mele me maja aaya ab ap change kar rahi ho na apne ap ko phele ki tarah agar kar rahi ho to prutha ke number par likhna ha kar rahi hu pls bhen change ho jao or orritate mat hoya karo</p>
                 
             </div>
@@ -257,7 +257,7 @@
                
                 <br>
                 <br>
-                <h3>Thanks msg padhne ke liye or logout kar dena baad me password hamesha same rahega jab tk me nahi badlunga bhen ap thodi se change ho jao  or har 3 hour baad ya 2 hour baad jab bhi ap yes likh dogi or prutha mujhe bata degi me msg change kar diya karunga THANKS FOR READ ab samajh bhi jana ki me kya khena chata hu </h3>
+                <h3>Thanks msg padhne ke liye or logout kar dena bhen mujhe thodi Der baad pata chalta hai isley me ise update Der se jar para hu isley sorry 😞 ap prutha ko turant msg ya call kar diya jaro jisse mujhe pata chal jaya karen Thanks bhen msg padhne ke liyen </h3>
                
               
                 <button class="save-btn" id="saveNotesBtn">Save Notes</button>
